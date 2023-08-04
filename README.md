@@ -1,15 +1,6 @@
+<h2 align="center">Hi 👋, I'm VICKY AJI SETIAWAN</h2>
+<h3 align="center">- 🎓 I'm currently student at Universitas Dian Nuswantoro</h3>
 
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-vkyas/vkyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
-
-<h1 align="center">Hi 👋, I'm VICKY AJI SETIAWAN</h1>
-<h3 align="center">Student | SICSR' 24</h3>
 
 <img src="https://komarev.com/ghpvc/?username=mahajant99&label=Profile%20views&color=0e75b6&style=flat" alt="mahajant99" /> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
